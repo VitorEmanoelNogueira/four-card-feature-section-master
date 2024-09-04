@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/VitorEmanoelNogueira/four-card-feature-section-master](https://github.com/VitorEmanoelNogueira/four-card-feature-section-master)
-- Live Site URL: [https://vitoremanoelnogueira.github.io/four-card-feature-section-master/index.htmle](https://vitoremanoelnogueira.github.io/four-card-feature-section-master/index.html)
+- Live Site URL: [https://vitoremanoelnogueira.github.io/four-card-feature-section-master/index.html](https://vitoremanoelnogueira.github.io/four-card-feature-section-master/index.html)
 
 ## My process
 
