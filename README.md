@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/VitorEmanoelNogueira/four-card-feature-section-master](https://github.com/VitorEmanoelNogueira/four-card-feature-section-master)
+- Live Site URL: [https://vitoremanoelnogueira.github.io/four-card-feature-section-master/index.htmle](https://vitoremanoelnogueira.github.io/four-card-feature-section-master/index.html)
 
 ## My process
 
